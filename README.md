@@ -1,0 +1,2 @@
+### Pothole Detection System
+Our Pothole Detection System uses a deep learning approach to identify road potholes with high accuracy, aiming to enhance road safety and reduce vehicle damage. The system employs a Convolutional Neural Network (CNN) with ReLU activation, pooling layers, dropout regularization, and a softmax output layer for precise, real-time pothole detection. This project contributes to safer driving conditions by proactively maintaining road quality.
